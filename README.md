@@ -84,7 +84,7 @@ Turn a raw, messy Amazon product export into a clean, KPI-driven dashboard that 
 
 ## Dashboard preview
 
-![Dashboard Screenshot](Images/dashboard_screenshot.png)
+[Dashboard Screenshot](Amazon_Marketplace_Intelligence_screenshot.png)
 
 ---
 
